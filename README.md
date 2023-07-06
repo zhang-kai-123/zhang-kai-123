@@ -3,7 +3,11 @@ hi, i'm zhangkai, a graduate student who can't do anything, but is working hard
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/yang-tian-hub/yang-tian-hub/assets/github-contribution-grid-snake.svg" width="2048" /></div>
 <h1 align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=时刻保持客气!&center=true&size=27"> </a> </h1>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ## Where to find me 🔍 
 

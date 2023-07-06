@@ -10,7 +10,7 @@ hi, i'm zhangkai, a graduate student who can't do anything, but is working hard
 <p><a href="[https://blog.ytadx.cn](https://blog.csdn.net/m0_47005029?spm=1018.2226.3001.5343)" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/zhang-kai-123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
 
 <a href="https://github.com/bubbliiiing">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bubbliiiing&theme=dracula&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">

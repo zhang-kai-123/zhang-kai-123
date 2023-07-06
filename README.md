@@ -4,9 +4,6 @@ hi, i'm zhangkai, a graduate student who can't do anything, but is working hard
 <h1 align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=时刻保持客气!&center=true&size=27"> </a> </h1>
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Where to find me 🔍 
 
@@ -14,6 +11,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
 ## My skills
 
 <p align="left">
@@ -30,6 +28,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=2694048168&show_icons=true" alt="2694048168" />
 </p>
 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!-- 
 <br />

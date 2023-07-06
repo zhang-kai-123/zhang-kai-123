@@ -5,20 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tiangong university
-- 🌱 I’m currently learning Image processing
-- 💭 Reproduce all kinds of deep learning algorithms, mainly focusing on images
-- 💬 Ask me about image fusion
-- 📫 How to reach me: 486259119@qq.com
-- 🫡 Read more about my CSDN: [here]([https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343](https://blog.csdn.net/m0_47005029?spm=1018.2226.3001.5343))
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/Python.
+- 📫 How to reach me: wisdom_zhe@qq.com
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 
--->
+![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
 
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

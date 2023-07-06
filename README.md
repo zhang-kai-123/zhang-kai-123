@@ -1,5 +1,6 @@
 ## Hi 🎉 Welcome to Zhang kai's Github Homepage!
 hi, i'm zhangkai, a graduate student who can't do anything, but is working hard
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/yang-tian-hub/yang-tian-hub/assets/github-contribution-grid-snake.svg" width="2048" /></div>
 
 - 👋 Wei Li&nbsp;(黎 为)
 - 🤔 Email: weili_yzzcq@163.com

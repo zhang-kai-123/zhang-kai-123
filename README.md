@@ -16,28 +16,7 @@ hi, i'm zhangkai, a graduate student who can't do anything, but is working hard
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bubbliiiing&theme=dracula&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
 </a>
 
-## My skills
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/>
-</p>
-
-
-<p>
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&layout=compact&hide=html,asp,jupyter%20notebook" alt="2694048168" />
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=2694048168&show_icons=true" alt="2694048168" />
-</p>
-
-
-<!-- 
-<br />
-
-<a href="https://github.com/2694048168/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=2694048168&show_icons=true&&theme=radical" /></a><a href="https://github.com/2694048168/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&layout=compact&theme=radical&hide_border=true" /></a>
- -->
 <br />
  if you like what i do, maybe consider buying me a coffee/tea 
 <br />

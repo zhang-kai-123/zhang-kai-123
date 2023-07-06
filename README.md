@@ -20,8 +20,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>&emsp;&emsp;hi, i'm zhangkai, a graduate student who can't do anything, but is working hard</p>
-<p>&emsp;&emsp;Love programming, photography, fitness, travel.</p>
+<p>&emsp;&emsp;💭 hi, i'm zhangkai, a graduate student who can't do anything, but is working hard</p>
+<p>&emsp;&emsp;🏃‍♂️ Love programming, photography, fitness, travel.</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>

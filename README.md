@@ -40,10 +40,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bubbliiiing&theme=dracula&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
 </a>
 
-
-
-<br />
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
